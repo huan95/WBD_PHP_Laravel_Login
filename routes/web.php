@@ -23,3 +23,12 @@ Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
 
     return view('login_error');
 });
+
+Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
+    if ($request->username == 'admiasdasdn'
+        && $request->password == 'aasdasddmin') {
+        return view('ahjsdgahjsdgasjhdgsadjasdasdgasdjhsadghjsadgsajdasgjh');
+    }
+
+    return view('login_error');
+});
