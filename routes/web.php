@@ -11,13 +11,13 @@
 |
 */
 
-Route::get('/login', function () {
-    return view('login');
+Route::get('/logadasdasin', function () {
+    return view('loasdsadsadgin');
 });
 
-Route::post('/login', function (Illuminate\Http\Request $request) {
-    if ($request->username == 'admin'
-        && $request->password == 'admin') {
+Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
+    if ($request->username == 'admiasdasdn'
+        && $request->password == 'aasdasddmin') {
         return view('ahjsdgahjsdgasjhdgsadjgasdjhsadghjsadgsajdasgjh');
     }
 
