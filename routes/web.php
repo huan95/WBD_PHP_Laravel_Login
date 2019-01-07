@@ -25,12 +25,10 @@ Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
         && $request->password == 'aasdasddmin') {
         return view('ahjsdgahjs');
     }
-
     return view('login_error');
 });
 
-Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
-
+Route::get('/hjadgasdjhagdasjgasjhasgd', function (Illuminate\Http\Request $request) {
 
     return view('login_error');
 });
