@@ -9,13 +9,21 @@
 <form action="/login" method="POST">
     <p>@csrf</p>
     <p>
+        <input type="text" name="useradasdasdasname" placeholder="user name">
+    </p>ádsaasdasasdsadasdasdsaasdsadasdsadsadsadasdasdasdasdsadasdsa
+    <p>
+        <input type="huanasdasd" name="pasdasdassword" placeholder="password">
+        <input type="huan" name="passworsadsadd" placeholdasdhjgsadjhsadgashjdaser="password">
         <input type="text" name="username" placeholder="user name">
     </p>
     <p>
-        <input type="password" name="password" placeholder="password">
+        <input type="huan" name="password" placeholder="password">
+        <input type="huan" name="password" placeholder="password">
+        <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password">
+
     </p>
-    <p>
-        <button type="submit">Log in</button>
+    <p>asdasdasdasd
+        <button type="asdasdsadsad">Log in</button>
     </p>
 </form>
 </body>

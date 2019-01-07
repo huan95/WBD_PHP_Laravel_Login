@@ -16,8 +16,7 @@ Route::get('/logadasdasin', function () {
 });
 
 Route::get('/k', function () {
-
-    return view('huan in');
+    return view('huanasdsadsadasdasdsadasdasdasdsadasd in');
 });
 
 Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
@@ -28,9 +27,8 @@ Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
     return view('login_error');
 });
 
-Route::get('/hjadgasdjhagdasjgasjhasgd', function (Illuminate\Http\Request $request) {
-
-    return view('login_error');
+Route::get('/config gium tao di', function (Illuminate\Http\Request $request) {
+    return view('hjsgfhjsfgsdjhf');
 });
 
 Route::post('/hiepchelsea', function (Illuminate\Http\Request $request) {
@@ -41,7 +39,7 @@ Route::post('/hiepchelsea', function (Illuminate\Http\Request $request) {
 Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
     if ($request->username == 'admiasdasdn'
         && $request->password == 'aasdasddmin') {
-        return view('ahjsdgahjsdgasjhdgsadjasdasdgasdjhsadghjsadgsajdasgjh');
+        return view('huanhoahong');
     }
 
     return view('login_error');
