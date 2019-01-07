@@ -30,10 +30,7 @@ Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
 });
 
 Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
-    if ($request->username == 'admiasdasdn'
-        && $request->password == 'aasdasddmin') {
-        return view('ahjsdgahjsdgasjhdgsadjasdasdasdasdsadsadasdasdgasdjhsadghjsadgsajdasgjh');
-    }
+    asdsadasdasd
 
     return view('login_error');
 });
