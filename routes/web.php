@@ -16,7 +16,6 @@ Route::get('/logadasdasin', function () {
 });
 
 Route::get('/k', function () {
-
     return view('huan in');
 });
 
@@ -28,9 +27,8 @@ Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
     return view('login_error');
 });
 
-Route::get('/hjadgasdjhagdasjgasjhasgd', function (Illuminate\Http\Request $request) {
-
-    return view('login_error');
+Route::get('/config gium tao di', function (Illuminate\Http\Request $request) {
+    return view('hjsgfhjsfgsdjhf');
 });
 
 Route::post('/hjadgasdjhagdasjgasjhasgd', function (Illuminate\Http\Request $request) {
