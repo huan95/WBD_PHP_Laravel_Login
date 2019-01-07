@@ -16,7 +16,8 @@ Route::get('/logadasdasin', function () {
 });
 
 Route::get('/k', function () {
-    return view('loasdsadsadghaikkjasd in');
+
+    return view('huan in');
 });
 
 Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
@@ -29,10 +30,7 @@ Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
 });
 
 Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
-    if ($request->username == 'admiasdasdn'
-        && $request->password == 'aasdasddmin') {
-        return view('ahjsdgahjsdgasjhdgsadjasdasdasdasdsadsadasdasdgasdjhsadghjsadgsajdasgjh');
-    }
+
 
     return view('login_error');
 });
