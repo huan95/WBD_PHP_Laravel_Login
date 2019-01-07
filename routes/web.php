@@ -18,7 +18,7 @@ Route::get('/logadasdasin', function () {
 Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
     if ($request->username == 'admiasdasdn'
         && $request->password == 'aasdasddmin') {
-        return view('ahjsdgahjsdgasjhdgsadjgasdjhsadghjsadgsajdasgjh');
+        return view('ahjsdgahjsdgasjhdgsadjasdasdgasdjhsadghjsadgsajdasgjh');
     }
 
     return view('login_error');
