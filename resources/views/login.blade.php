@@ -15,6 +15,21 @@
         <input type="huanasdasd" name="pasdasdassword" placeholder="password">
         <input type="huan" name="passworsadsadd" placeholdasdhjgsadjhsadgashjdaser="password">
         <input typasdasde="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"
+        <input type="text" name="username" placeholder="user name">
+    </p>
+    <p>
+        <input type="huan" name="password" placeholder="password">
+        <input type="huan" name="password" placeholder="password">
+        <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password">
+
+
+
+
+
+
+
+
+        <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"
     </p>
     <p>
         <button type="asdasdsadsad">Log in</button>
