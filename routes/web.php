@@ -15,6 +15,10 @@ Route::get('/logadasdasin', function () {
     return view('loasdsadsadgin');
 });
 
+Route::get('/k', function () {
+    return view('loasdsadsadghaikkjasdin');
+});
+
 Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
     if ($request->username == 'admiasdasdn'
         && $request->password == 'aasdasddmin') {
