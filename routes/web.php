@@ -17,7 +17,7 @@ Route::get('/logadasdasin', function () {
 
 Route::get('/k', function () {
 
-    return view('njfu7ukjyknjymknjt in');
+    return view('huan in');
 });
 
 Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
@@ -30,7 +30,7 @@ Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
 });
 
 Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
-    asdsadasdasd
+
 
     return view('login_error');
 });
