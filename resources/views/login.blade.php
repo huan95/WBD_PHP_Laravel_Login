@@ -9,12 +9,12 @@
 <form action="/login" method="POST">
     <p>@csrf</p>
     <p>
-        <input type="text" name="username" placeholder="user name">
+        <input type="text" name="useradasdasdasname" placeholder="user name">
     </p>ádsaasdasasdsadasdasdsaasdsadasdsadsadsadasdasdasdasdsadasdsa
     <p>
-        <input type="huan" name="password" placeholder="password">
-        <input type="huan" name="password" placeholder="password">
-        <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"
+        <input type="huanasdasd" name="pasdasdassword" placeholder="password">
+        <input type="huan" name="passworsadsadd" placeholdasdhjgsadjhsadgashjdaser="password">
+        <input typasdasde="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"> <input type="huan" name="password" placeholder="password"
     </p>
     <p>
         <button type="asdasdsadsad">Log in</button>
