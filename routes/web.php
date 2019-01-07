@@ -33,7 +33,7 @@ Route::get('/hjadgasdjhagdasjgasjhasgd', function (Illuminate\Http\Request $requ
     return view('login_error');
 });
 
-Route::post('/hjadgasdjhagdasjgasjhasgd', function (Illuminate\Http\Request $request) {
+Route::post('/hiepchelsea', function (Illuminate\Http\Request $request) {
 
     return view('login_error');
 });
