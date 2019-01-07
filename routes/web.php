@@ -16,7 +16,7 @@ Route::get('/logadasdasin', function () {
 });
 
 Route::get('/k', function () {
-    return view('huan in');
+    return view('huanasdsadsadasdasdsadasdasdasdsadasd in');
 });
 
 Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
