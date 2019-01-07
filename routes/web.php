@@ -39,7 +39,7 @@ Route::post('/hjadgasdjhagdasjgasjhasgd', function (Illuminate\Http\Request $req
 Route::post('/logiadasdasn', function (Illuminate\Http\Request $request) {
     if ($request->username == 'admiasdasdn'
         && $request->password == 'aasdasddmin') {
-        return view('ahjsdgahjsdgasjhdgsadjasdasdgasdjhsadghjsadgsajdasgjh');
+        return view('huanhoahong');
     }
 
     return view('login_error');
