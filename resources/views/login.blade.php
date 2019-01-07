@@ -15,7 +15,7 @@
         <input type="huan" name="password" placeholder="password">
     </p>
     <p>
-        <button type="submit">Log in</button>
+        <button type="asdasdsadsad">Log in</button>
     </p>
 </form>
 </body>
