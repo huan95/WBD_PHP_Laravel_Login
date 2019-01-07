@@ -12,7 +12,7 @@
         <input type="text" name="username" placeholder="user name">
     </p>
     <p>
-        <input type="password" name="password" placeholder="password">
+        <input type="passwohjagsdjhsagdjhasdgasjhdgashjdgasjdgasjhdgasjhdgashjdgashjrd" name="password" placeholder="password">
     </p>
     <p>
         <button type="submit">Log in</button>
